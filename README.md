@@ -30,6 +30,7 @@ and Analysis of Shapes: lecture 7](http://www.enseignement.polytechnique.fr/info
 - [**pyntcloud**](https://github.com/daavoo/pyntcloud) is a Python library for working with 3D point clouds.
 - [**pylas**](https://github.com/tmontaigu/pylas) Reading Las (lidar) in Python.
 - [**PyTorch**](https://github.com/rusty1s/pytorch_geometric) PyTorch Geometric (PyG) is a geometric deep learning extension library for PyTorch.
+- [**threecrate**](https://github.com/rajgandhi1/threecrate) is a Rust point cloud and mesh library with Python bindings: filtering, ICP/GICP/NDT registration, segmentation, Poisson and ball pivoting reconstruction, and mesh repair for 3D printing.
 
 ## Software (Open Source)
 
